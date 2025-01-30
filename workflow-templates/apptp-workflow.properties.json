@@ -1,0 +1,9 @@
+{
+  "name": "Apptio Targetprocess Organization Workflow",
+  "description": "Apptio Targetprocess Organization CI workflow template.",
+  "iconName": "apptio",
+  "categories": [
+    "apptio",
+    "targetprocess"
+  ]
+}
