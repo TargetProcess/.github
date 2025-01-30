@@ -17,7 +17,7 @@ jobs:
     strategy:
       matrix:
         project: [ CHANGE_ME ]
-    uses: 'Targetprocess/gitlab-migration-test/.github/workflows/test-workflow.yml@feature/us817038-workflow-template'
+    uses: 'TargetProcess/gitlab-migration-test/.github/workflows/test-workflow.yml@feature/us817038-workflow-template'
     with:
       project-name: ${{ matrix.project }}
       ec-lint-enabled: true
